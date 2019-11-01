@@ -6,7 +6,7 @@ namespace ExampleMethodTest
     [TestClass]
     public class UnitTest
     {
-        [TestMethod]
+        [TestMethod] 
         public void TestCalcolo1()
         {
             {
